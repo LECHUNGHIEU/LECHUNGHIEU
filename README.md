@@ -1,77 +1,109 @@
 ```markdown
-# Hi, I'm Le Chung Hieu 👋
+<h1 align="center">Hi 👋, I'm Le Chung Hieu</h1>
 
-Final-Year Electronics and Telecommunications Engineering Student at Ho Chi Minh City University of Technology (HCMUT), VNU-HCM.
+<h3 align="center">
+Electronics Engineering Student | RTL Design | Design Verification | FPGA | ASIC Design
+</h3>
 
-I am passionate about Digital IC Design, RTL Design, Design Verification, FPGA Prototyping, and ASIC Design Flow.
-
----
-
-## 🎯 Areas of Interest
-
-- RTL Design
-- Digital IC Design
-- Design Verification (UVM)
-- FPGA Prototyping
-- ASIC Design Flow
-- Processor Architecture
-- Cryptographic Accelerators
-- Post-Quantum Cryptography
+<p align="center">
+Final-Year Electronics and Telecommunications Engineering Student at
+Ho Chi Minh City University of Technology (HCMUT), VNU-HCM.
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
 
-### 32-Bit Pipelined RISC-V RV32I Processor
-- 5-stage pipeline architecture
-- Hazard Detection Unit and Forwarding Unit
-- RTL implementation using SystemVerilog
-- FPGA validation on DE2-115
-
-### CRYSTALS-Dilithium NTT/INTT Accelerator
-- 256-point NTT/INTT accelerator
-- Butterfly processing architecture
-- Montgomery reduction
-- Dual-port memory architecture
-
-### AES-CTR Hardware Encryption Accelerator
-- AES-128 / AES-192 / AES-256 support
-- Key Expansion and Cipher Engine
-- FSM-based control architecture
-
-### UVM Verification Projects
-- UART Verification
-- APB Verification
-- FIFO Verification
-- Functional Coverage and SVA
+- 🎓 Final-Year Electronics and Telecommunications Engineering Student
+- 🔬 Interested in RTL Design, Digital IC Design, Design Verification, and ASIC Design Flow
+- 💻 Experienced in SystemVerilog, Verilog, FPGA Prototyping, and Hardware Architecture Design
+- 🚀 Passionate about Processor Architecture, Cryptographic Accelerators, and Post-Quantum Cryptography
+- 📍 Ho Chi Minh City, Vietnam
 
 ---
 
 ## 🛠 Technical Skills
 
 ### RTL Design
-SystemVerilog, Verilog, FSM Design, Datapath Design, Pipeline Architecture
+- FSM Design
+- Datapath & Control Architecture
+- Pipeline Design
+- Memory Architecture
+- Arithmetic Unit Design
 
 ### Verification
-UVM, Constrained-Random Verification, Functional Coverage, Cross Coverage, Scoreboarding, SVA
+- UVM Methodology
+- Functional Verification
+- Constrained-Random Verification
+- Functional Coverage
+- Cross Coverage
+- SystemVerilog Assertions (SVA)
+
+### Languages
+- SystemVerilog
+- Verilog
+- VHDL
+- Python
+- C
+
+### EDA Tools
+- Cadence Xcelium
+- QuestaSim
+- ModelSim
+- Quartus Prime
+- Vivado
 
 ### FPGA & ASIC
-RTL Design Flow, Simulation, Synthesis, Timing Analysis, FPGA Implementation
+- RTL Design Flow
+- FPGA Prototyping
+- Logic Synthesis
+- Timing Analysis
+- ASIC Frontend Fundamentals
 
-### Tools
-Cadence Xcelium, ModelSim, Vivado, Quartus
+---
 
-### Programming
-Python, C, Tcl
+## 🚀 Featured Projects
+
+### 🖥️ 32-Bit Pipelined RISC-V RV32I Processor
+
+- Designed a 5-stage pipelined RV32I processor
+- Implemented Hazard Detection and Forwarding Units
+- Developed ALU, Register File, Control Unit, and Memory Interface
+- Verified functionality using Cadence Xcelium
+- Validated implementation on DE2-115 FPGA
+
+### 🔐 CRYSTALS-Dilithium NTT/INTT Accelerator
+
+- Designed a 256-point NTT/INTT accelerator
+- Implemented Butterfly Processing Units
+- Developed Montgomery Reduction Architecture
+- Designed Dual-Port Memory System
+- Integrated NTT, Point-Wise Multiplication, and INTT modules
+
+### 🔒 AES-CTR Hardware Encryption Accelerator
+
+- Supported AES-128, AES-192, and AES-256
+- Implemented Key Expansion and Cipher Engine
+- Developed FSM-based Control Architecture
+- Evaluated Timing and Resource Utilization
+
+### ✅ UVM Verification Projects
+
+- UART Verification Environment
+- AMBA APB Verification Environment
+- FIFO Verification Environment
+- Functional Coverage, Cross Coverage, Scoreboarding, and SVA
 
 ---
 
 ## 📫 Contact
 
-- Email: lechunghieu112@gmail.com
-- LinkedIn: https://www.linkedin.com/in/lechunghieu-ic
+- Email: **lechunghieu112@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/lechunghieu-ic**
 
 ---
 
-⭐ Interested in RTL Design, Verification, FPGA Prototyping, and ASIC Development.
+<p align="center">
+⭐ Interested in RTL Design, Design Verification, FPGA Prototyping, and ASIC Development
+</p>
 ```
